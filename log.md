@@ -2,7 +2,7 @@
 
 *Main Commitment*:
 
-I will code in any programming language for at least an hour every day for the next 100 days.
+I will code in the **Python** programming language for at least an hour every day for the next 100 days.
 
 Start Date: January 01, 2020
 End Date (without any breaks): April 10, 2020
@@ -48,12 +48,11 @@ End Date (without any breaks): April 10, 2020
 ----
 ### Day 3: January, 03, 2020
 
-**Today's Progress**:
+**Today's Progress**: Lots of ancillary work today – Slack, emails, Github stuff, etc. I made a pull request to prettify the code in the 100-days log generator, but I didn't really implement any new features. I'll save that for tomorrow. I also did a little bit of Google's ML crash course, though I wouldn't say I was following it too well. 	
 
-**Thoughts:**
+**Thoughts:** I felt a bit lackadaisical today. I need to get better at working to understand things that aren't immediately clear to me. At the moment I have a great time when working in bare Python because I understand it well, but I get bogged down when I have to dig into documentation or learn something new. Definitely room to improve there.
 
-**Link(s) to work**
-[Example](http://www.example.com)
+**Link(s) to work**: [2 out of 3 of these done](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/programming-exercises) and [this commit](https://github.com/MattiooFR/log-maker-100-days/pull/5/commits/ad71aea8ef51c0edb615473501c161d3e0bacb90)
 
 [Back Top](#days)
 
