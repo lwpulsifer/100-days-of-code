@@ -59,12 +59,11 @@ End Date (without any breaks): April 10, 2020
 ----
 ### Day 4: January, 04, 2020
 
-**Today's Progress**:
+**Today's Progress**: Added new command line options to `main.py`: `-v` for verbose mode and `-l` to append to a list of logs. In the car so didn't get too much done.
 
-**Thoughts:**
+**Thoughts:** A little distracted, but still managed to get some work done, which I'm proud of.
 
-**Link(s) to work**
-[Example](http://www.example.com)
+**Link(s) to work**: [Latest Commit](https://github.com/MattiooFR/log-maker-100-days/commit/1d86fb29acc9caa4b00a78daecc220f49843b2ea)
 
 [Back Top](#days)
 
