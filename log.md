@@ -70,12 +70,11 @@ End Date (without any breaks): April 10, 2020
 ----
 ### Day 5: January, 05, 2020
 
-**Today's Progress**:
+**Today's Progress**: Didn't do much real coding today, but spent a good bit of time thinking about what to do next and watching some videos ([Here](https://www.youtube.com/watch?v=0pThnRneDjw)). I think I'm going to try to make a vue web app for the log generator, but we'll see how that might change.
 
-**Thoughts:**
+**Thoughts:** Not super easy to work away from home, but still moving.
 
-**Link(s) to work**
-[Example](http://www.example.com)
+**Link(s) to work**: NA
 
 [Back Top](#days)
 
