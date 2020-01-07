@@ -92,12 +92,11 @@ End Date (without any breaks): April 10, 2020
 ----
 ### Day 7: January, 07, 2020
 
-**Today's Progress**:
+**Today's Progress**: Worked on a log parser to allow updating log files using the log generator application.
 
-**Thoughts:**
+**Thoughts:** Slow going, but I think I was getting somewhere at the end. It definitely parses log files, but it's very finnicky and not ready for production. I think the key will be to just count the number of empty days, then renumber the entries.
 
-**Link(s) to work**
-[Example](http://www.example.com)
+**Link(s) to work**: [Latest commit](https://github.com/MattiooFR/log-maker-100-days/commit/e379e36b1e3bc7ad16c37a670fd73a51dc2d15eb)
 
 [Back Top](#days)
 
