@@ -81,12 +81,11 @@ End Date (without any breaks): April 10, 2020
 ----
 ### Day 6: January, 06, 2020
 
-**Today's Progress**:
+**Today's Progress**: Scattered work doing several different things, mostly working on trying to figure out the vscode extensions API. Didn't get much past `hello_world` but still had some fun.
 
-**Thoughts:**
+**Thoughts:** Need to settle in to a good project that I can really sink my teeth into. Tomorrow I need to work a little on the log generator – reading from log files and modifying based on missed days.
 
-**Link(s) to work**
-[Example](http://www.example.com)
+**Link(s) to work**: [Hello World Extension](https://github.com/lwpulsifer/helloworld/commit/74011311d422512fb7220cef827e8c85057ad804)
 
 [Back Top](#days)
 
