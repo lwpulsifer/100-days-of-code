@@ -103,12 +103,11 @@ End Date (without any breaks): April 10, 2020
 ----
 ### Day 8: January, 08, 2020
 
-**Today's Progress**:
+**Today's Progress**: Worked a little bit more on updating log files, but tabling that for the time-being because I'm not even sure of what I want it to look like in the end. Then I worked on a super-basic regex parser thing which went terribly. Rough day, all things considered. 
 
-**Thoughts:**
+**Thoughts:** None
 
-**Link(s) to work**
-[Example](http://www.example.com)
+**Link(s) to work** [Example](https://github.com/lwpulsifer/100-days-of-code)
 
 [Back Top](#days)
 
